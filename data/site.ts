@@ -7,7 +7,7 @@ export const site = {
   university: "Informatics Institute of Technology, Sri Lanka",
   module: "AGILE TEAM PROJECT (ATP)",
   supervisor: "Ms. Vishmi Abuldeniya",
-  email: "[TEAM EMAIL]",
+  email: "labguardai.team@gmail.com",
   social: [
     { label: "GitHub", href: "https://github.com/SoapDevX/labguard-ai" },
     { label: "LinkedIn", href: "https://www.linkedin.com/company/[PAGE]" },
